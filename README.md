@@ -21,20 +21,18 @@ I am a passionate developer with experience in various technologies and framewor
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" style="height: 4rem; background-color:white"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"  style="height: 4rem"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"  style="height: 4rem"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"  style="height: 4rem"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"  style="height: 4rem"/>
 </p>
 
 ---
 
 ## Projects
 
-### Observatorio Turístico de Holguín
+### Holguín Tourist Observatory
 
 **Summary:**
-El turismo en los últimos años, ha sido impactado por varios factores, siendo la pandemia de COVID-19 uno de los más significativos. Tras la pandemia, en la provincia de Holgín se creó el Observatorio Turístico de Holguín con el fin de elevar nuevamente el turismo en el destino y aprovechar las oportunidades emergentes. Sin embargo, la falta de un sistema de gestión de información para esta entidad ha dificultado la planificación y toma de decisiones estratégicas.
+Tourism in recent years has been impacted by several factors, with the COVID-19 pandemic being one of the most significant. Following the pandemic, the Holguín Tourist Observatory was created in the province of Holguín to boost tourism in the destination and take advantage of emerging opportunities. However, the lack of an information management system for this entity has hindered planning and strategic decision-making.
 
-Este trabajo se centra en la creación de un sistema de gestión de información para el Observatorio Turístico, que permita la organización y análisis de datos relacionados con las instalaciones de los diferentes polos y los indicadores turísticos que se les evalúan. El sistema ofrecerá una solución integral para gestionar la información de los diferentes indicadores facilitando la transmisión y procesamiento de la información. El sistema propuesto facilitando la toma de decisiones informadas, apoyando así la revitalización del turismo en Holguín. Con la implementación de este sistema, se espera mejorar la capacidad del Observatorio para optimizar el desarrollo turístico sostenible y fortalecer la competitividad del destino.
+This work focuses on creating an information management system for the Tourist Observatory, allowing the organization and analysis of data related to the facilities of different poles and the tourist indicators evaluated. The system will offer an integral solution to manage the information of different indicators, facilitating the transmission and processing of information. The proposed system will enable informed decision-making, supporting the revitalization of tourism in Holguín. With the implementation of this system, it is expected to improve the Observatory's capacity to optimize sustainable tourism development and strengthen the destination's competitiveness.
 
 **Technologies Used:**
 - Nuxt3
@@ -46,7 +44,7 @@ Este trabajo se centra en la creación de un sistema de gestión de información
 **Summary:**
 I developed the frontend for the website of Gas y Cima Madrid, a company specializing in gas and energy solutions. The website is built using Nuxt3 and is designed to be responsive and user-friendly.
 
-**Link:** [Gas y Cima Madrid](https://www.gasycimamadrid.com)
+**Link:** [Gas y Cima Madrid](http://gasyclimamadrid.com/)
 
 **Technologies Used:**
 - Nuxt3
@@ -66,11 +64,11 @@ I created a web application for managing the menu of a restaurant. The applicati
 
 ## Experience
 
-- **Frontend Developer** at Gas y Cima Madrid (2022 - Present)
+- **Frontend Developer** at Gas y Cima Madrid (2024)
   - Developed and maintained the company's website using Nuxt3 and Tailwind CSS.
   - Ensured the website was responsive and user-friendly.
 
-- **Full Stack Developer** at Observatorio Turístico de Holguín (2021 - 2022)
+- **Full Stack Developer** at Observatorio Turístico de Holguín (2023 - Present)
   - Created a system for managing tourist information using Nuxt3, Express, and Sequelize.
   - Improved the organization and analysis of tourist data, facilitating strategic decision-making.
 
@@ -78,7 +76,7 @@ I created a web application for managing the menu of a restaurant. The applicati
 
 ## Education
 
-- **Bachelor of Science in Computer Science** from University of ABC (2016 - 2020)
+- **Computer Engineer** from Universidad de José Martí de Sancti Spiritus (2020 - 2024)
 
 ---
 
