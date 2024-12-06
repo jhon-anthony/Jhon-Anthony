@@ -28,7 +28,7 @@
 ---
 
 - 📫 How to reach me:
-  - **GitHub:** [Juan-Antonio](https://github.com/Juan-Antonio)
+  - **GitHub:** [Juan-Antonio](https://github.com/jhon-anthony)
   - **Correo Electrónico:** <jgonzalezgutierrez615@gmail.com>
 
 ---
